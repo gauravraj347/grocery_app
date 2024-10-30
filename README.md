@@ -1,8 +1,8 @@
-#Groceria
+# Groceria
 
 Groceria is an intelligent grocery management and shopping assistant that aims to simplify the way you organize, shop, and cook. With Groceria, you can track inventory, discover recipes, create shopping lists, and optimize your grocery purchases efficiently.
 
-#How to use
+# How to use
 
 # Clone this repository
 To clone and run this application, you'll need Git and React Native installed on your computer. From your command line:
