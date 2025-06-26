@@ -1,22 +1,48 @@
-# Groceria
+# 🛒 Groceria
+Groceria is a grocery management and shopping assistant that simplifies how you organize, shop, and cook. With Groceria, users can:
 
-Groceria is an intelligent grocery management and shopping assistant that aims to simplify the way you organize, shop, and cook. With Groceria, you can track inventory, discover recipes, create shopping lists, and optimize your grocery purchases efficiently.
+- Track grocery inventory  
+- Discover personalized recipes  
+- Create and manage shopping lists  
+- Optimize purchases based on real-time needs  
 
-# How to use
+---
 
-# Clone this repository
-To clone and run this application, you'll need Git and React Native installed on your computer. From your command line:
-$ https://github.com/gauravraj347/grocery_app.git
+## 🚀 Tech Stack
 
-# Go into the repository
-$ cd grocery_app
-$ cd frontend
+- **Frontend:** React Native  
+- **Backend & Auth:** Firebase (Firestore, Authentication, Cloud Storage)  
+- **Navigation:** React Navigation  
+- **State Management:** React Hooks / Context API  
+- **Tools:** React Native CLI or Expo (based on setup)
+
+---
+
+## 📲 Getting Started
+
+### Prerequisites
+
+Make sure you have the following installed:
+
+- Node.js  
+- React Native CLI or Expo CLI  
+- Android Studio / Xcode  
+- Git
+
+---
+
+### 🔧 Run the App
+
+```bash
+
+# Navigate to the directory
+cd grocery_app
 
 # Install dependencies
-$ npm install
+npm install
 
-# Run the iOS app
-$ react-native run-ios
+# Run on iOS (macOS only)
+npx react-native run-ios
 
-# Run the Android app
-$ react-native run-android
+# Run on Android
+npx react-native run-android
